@@ -1,6 +1,14 @@
 # First Go Experiments!
 
-Totally inpired by the [article](https://golang.org/doc/code.html).
+Totally inpired by the article: [How to Write Go Code](https://golang.org/doc/code.html).
+
+### Dependencies
+
+My first package :
+
+```(bash)
+go get https://github.com/pedroperrusi/stringutil
+```
 
 ### Useful Readings
 
